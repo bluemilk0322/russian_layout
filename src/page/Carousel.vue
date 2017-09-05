@@ -11,8 +11,8 @@
 <style>
     .el-carousel{
         top:13vh;
-        left:29vh;
-        width: 1000px;
+        left:19vh;
+        width: 1100px;
         z-index:-1
     }
   .el-carousel__item h3 {

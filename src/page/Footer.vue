@@ -50,5 +50,6 @@ export default {
         width: 100%;
         background-color: #34495E;
         text-align:left;
+        left: 0vh;
     }
 </style>

@@ -50,24 +50,23 @@
     .nav{
         position:fixed;
         top:13vh;
-        left: 30vh;
-        width:1000px;
-        font-family:"Microsoft YaHei";
-        
+        left: 20vh;
+        width:1100px;
+        font-family:"Microsoft YaHei";   
     }
 
     .el-menu-item, .el-submenu__title{
-      height: 56px;
-  line-height: 56px;
-  font-size: 18px;
-  color: rgb(72, 87, 106);
-  padding: 0 20px;
-  cursor: pointer;
-  position: relative;
-  transition: border-color .3s, background-color .3s, color .3s;
-  box-sizing: border-box;
-  white-space: nowrap;
-}
+    height: 56px;
+    line-height: 56px;
+    font-size: 19px;
+    color: rgb(72, 87, 106);
+    padding: 0 25px;
+    cursor: pointer;
+    position: relative;
+    transition: border-color .3s, background-color .3s, color .3s;
+    box-sizing: border-box;
+    white-space: nowrap;
+    }
 
     .el-menu--dark .el-menu-item, .el-menu--dark .el-submenu__title{
       color: #FFFFFF;

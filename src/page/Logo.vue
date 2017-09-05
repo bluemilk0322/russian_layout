@@ -17,13 +17,13 @@ export default {
 @import  '../../static/css/waves.min.css';
     .logo{
         position:absolute;
-        left:23%;
-        top:2vh;
+        left:15%;
+        top:1vh;
     }
 
     img{
         width:600px;
-        height:70px;
+        height:65px;
     }
    
 </style>

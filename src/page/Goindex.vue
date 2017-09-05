@@ -22,7 +22,7 @@ export default {
     
     .goindex{
         position:absolute;
-        right:50vh;
+        right:22vh;
         top:-1vh;
     }
     ul li a{
