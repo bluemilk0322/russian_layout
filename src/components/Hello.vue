@@ -4,7 +4,8 @@
     <Goindex></Goindex>
     <Nav></Nav>
     <Carousel></Carousel>
-  <!--  <Card></Card>-->
+    <Card></Card>
+    <Facebook></Facebook>
     <Footer></Footer>
   </div>
 </template>
@@ -14,7 +15,8 @@ import Logo from '../page/Logo'
 import Goindex from '../page/Goindex'
 import Nav from '../page/Nav'
 import Carousel from '../page/Carousel'
-//import Card from '../page/Card'
+import Card from '../page/Card'
+import Facebook from '../page/Facebook'
 import Footer from '../page/Footer'
 
 export default {
@@ -23,7 +25,8 @@ export default {
     Goindex,
     Nav,
     Carousel,
-    //Card
+    Card,
+    Facebook,
     Footer
   }
 }

@@ -43,13 +43,15 @@ export default {
     }
     .footer{
         font-family:"Microsoft YaHei";
-        height: 20vh;
+        background-color: #34495E;
+
+        height: 21vh;
+        width: 100%;
         box-sizing: border-box;
         position: absolute;
-        bottom: 0;
-        width: 100%;
-        background-color: #34495E;
+        bottom: 100;
+        margin-top: 20vh;
+        left:0vh;
         text-align:left;
-        left: 0vh;
-    }
+        }
 </style>

@@ -10,10 +10,10 @@
 
 <style>
     .el-carousel{
-        top:13vh;
-        left:19vh;
-        width: 1100px;
-        z-index:-1
+        top:10vh;
+        left:15vh;
+        width: 1200px;
+        z-index:-1;
     }
   .el-carousel__item h3 {
     color: #ffffff;

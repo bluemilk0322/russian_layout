@@ -48,17 +48,17 @@
 
 <style>
     .nav{
-        position:fixed;
-        top:13vh;
-        left: 20vh;
-        width:1100px;
+        position:relative;
+        top:10vh;
+        left: 15vh;
+        width:1200px;
         font-family:"Microsoft YaHei";   
     }
 
     .el-menu-item, .el-submenu__title{
     height: 56px;
     line-height: 56px;
-    font-size: 19px;
+    font-size: 22px;
     color: rgb(72, 87, 106);
     padding: 0 25px;
     cursor: pointer;
@@ -73,11 +73,15 @@
     }
 
     .el-menu--dark{
-      background-color: #8DC6FF;
+      background-color:	#46A3FF;
     }
 
     .el-menu-item.is-active{
-      color: #000000;
+      color: #FF9224;
+    }
+
+    .el-menu--horizontal .el-menu-item{
+      height: 70px;
     }
 
 </style>
